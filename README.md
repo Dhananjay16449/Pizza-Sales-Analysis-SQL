@@ -220,3 +220,19 @@ where ranks <=3
 ;
 ```
 
+## Findings
+
+- The highest-priced pizza on the menu is "The Greek Pizza."
+- The most frequently ordered pizza size is large.
+- "The Classic Deluxe Pizza" is the most popular pizza, with "classic" being the favored category.
+- Sales peak during the hours of 17:00 to 19:00.
+- The average daily order value is $138.47.
+- "The Thai Chicken Pizza" generates the highest revenue among all pizzas.
+
+## Conclusion
+
+This project serves as a comprehensive introduction to SQL for data analysts, covering database setup and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+
+
+Thank you....
+  
